@@ -1,0 +1,15 @@
+pandas>=1.5
+numpy>=1.23
+cvxpy>=1.6        # bundles the HiGHS MIP solver (via highspy) - works out of the box
+
+# Optional, only needed if you use --source api in main.py:
+requests>=2.28
+
+# --- Optional extra MIP solver backends -------------------------------------
+# cvxpy>=1.6 already includes HiGHS, which is enough to run this project.
+# These are only useful as alternatives (e.g. for speed on very large
+# problems, or if you're pinned to an older cvxpy without bundled HiGHS):
+#
+#   pip install cylp          # enables solver="CBC"
+#   pip install cvxopt        # enables solver="GLPK_MI" (also needs glpk)
+#   pip install pyscipopt     # enables solver="SCIP"

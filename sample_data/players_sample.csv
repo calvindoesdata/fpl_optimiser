@@ -1,0 +1,65 @@
+id,web_name,team,position,price,form,total_points,selected_by_percent,minutes,chance_of_playing_next_round,status
+1,G. Iwobi,Fulham,GK,5.0,3.9,123,11.3,1926,100,a
+2,T. Tarkowski,Chelsea,GK,5.0,5.6,126,17.2,1948,100,a
+3,B. Solanke,Newcastle,GK,5.0,4.8,94,14.5,2431,100,a
+4,B. Diaz,Ipswich,GK,5.0,4.9,114,21.4,2117,100,a
+5,C. Salah,Arsenal,GK,4.5,4.7,65,0.1,1213,50,d
+6,S. Gordon,Chelsea,GK,4.5,4.5,59,9.6,1916,100,a
+7,G. Barnes,Southampton,DEF,4.5,2.4,40,0.1,1778,100,a
+8,B. Estupinan,Leicester,DEF,4.5,3.4,66,3.4,1414,100,a
+9,N. Wan-Bissaka,Everton,DEF,4.5,1.2,25,7.4,1221,100,a
+10,A. Henderson,Wolves,DEF,6.5,7.1,106,19.2,1536,100,a
+11,T. Aina,Ipswich,DEF,4.5,3.4,55,0.1,1004,100,a
+12,N. Foden,Newcastle,DEF,5.5,4.5,130,10.6,1340,100,a
+13,L. Cash,Arsenal,DEF,5.5,5.5,98,24.2,1274,100,a
+14,T. Gakpo,West Ham,DEF,5.5,2.8,105,10.7,1161,100,a
+15,C. Doku,Nott'm Forest,DEF,4.0,4.4,102,3.3,1104,100,a
+16,K. Mainoo,Chelsea,DEF,5.0,3.2,54,7.2,2093,100,a
+17,L. Muniz,Bournemouth,DEF,5.5,2.5,77,12.1,2457,100,a
+18,S. Cunha,Bournemouth,DEF,6.5,4.7,105,15.0,2768,100,a
+19,M. Chalobah,Southampton,DEF,5.0,4.8,79,7.1,1650,100,a
+20,D. Trippier,Brentford,DEF,4.0,0.5,0,1.4,2131,100,a
+21,N. Pope,Spurs,DEF,5.5,6.1,95,9.2,2192,100,a
+22,N. Andersen,Newcastle,DEF,5.0,2.2,35,21.5,2356,100,a
+23,S. Gabriel,Brentford,DEF,6.0,4.0,87,21.8,1675,100,a
+24,G. Saka,Bournemouth,DEF,4.0,3.7,32,5.2,679,100,a
+25,S. Gibbs-White,Man Utd,DEF,5.5,3.4,81,19.8,1219,100,a
+26,T. Bowen,Bournemouth,DEF,7.0,6.4,141,33.0,2215,100,a
+27,N. Rogers,Chelsea,DEF,7.0,6.7,156,26.4,1566,100,a
+28,C. Kudus,Fulham,DEF,7.0,9.3,128,22.7,1414,100,a
+29,G. Raya,Arsenal,MID,5.5,1.7,26,0.1,1490,100,a
+30,T. Bruno,Spurs,MID,10.0,4.4,81,14.5,1102,100,a
+31,R. Robinson,Brighton,MID,6.5,1.8,102,28.8,1142,100,a
+32,K. Mateta,Bournemouth,MID,12.0,5.0,123,27.1,2090,100,a
+33,T. Palmer,Brentford,MID,5.5,2.3,36,4.6,1333,100,a
+34,T. Rashford,Man Utd,MID,8.0,4.4,77,9.7,1405,50,d
+35,G. Kovacic,Brentford,MID,6.5,5.6,96,8.6,1305,100,a
+36,C. Rice,Leicester,MID,5.5,4.0,49,6.6,857,100,a
+37,C. Munoz,West Ham,MID,13.5,6.4,156,25.4,1883,100,a
+38,J. Konsa,Leicester,MID,9.0,6.3,25,10.6,1820,100,a
+39,S. Haaland,Bournemouth,MID,9.0,4.9,133,0.2,2095,100,a
+40,S. Sels,Everton,MID,10.5,4.9,142,21.3,2526,100,a
+41,M. Odegaard,Leicester,MID,12.0,6.7,150,18.5,1943,100,a
+42,K. Verbruggen,Newcastle,MID,6.5,4.0,51,14.9,1911,100,a
+43,F. Sanchez,Aston Villa,MID,13.0,6.6,114,19.5,2576,100,a
+44,J. Semenyo,Nott'm Forest,MID,13.0,6.8,112,18.2,2097,100,a
+45,M. Wood,Liverpool,MID,8.5,4.6,85,14.4,2368,100,a
+46,D. Wissa,West Ham,MID,5.5,0.7,80,5.7,1894,100,a
+47,L. Silva,Man Utd,MID,7.5,3.9,75,10.5,1321,100,a
+48,F. Saliba,Brentford,MID,6.0,4.0,23,3.2,2175,100,a
+49,S. Van Dijk,West Ham,MID,11.5,6.9,123,30.1,2231,100,a
+50,A. Watkins,Bournemouth,MID,12.0,5.9,79,33.7,1733,0,i
+51,N. Ramsdale,Ipswich,FWD,13.0,4.5,87,13.9,2080,100,a
+52,B. Mbeumo,Nott'm Forest,FWD,5.5,0.0,42,0.1,1731,100,a
+53,S. Dalot,Wolves,FWD,11.5,5.5,129,18.5,2045,100,a
+54,M. Costa,Bournemouth,FWD,12.5,6.8,111,23.2,1774,0,i
+55,F. Pickford,Aston Villa,FWD,11.0,3.5,67,0.1,1538,100,a
+56,A. Elanga,West Ham,FWD,12.5,7.1,154,18.5,2422,100,a
+57,N. Santos,Spurs,FWD,6.0,0.9,24,0.7,1892,100,a
+58,R. Isak,Man City,FWD,5.0,1.0,47,0.1,791,100,a
+59,S. Son,Aston Villa,FWD,6.5,1.7,36,8.2,1519,100,a
+60,M. Iwobi,Bournemouth,FWD,14.5,6.4,107,32.3,1843,100,a
+61,A. Tarkowski,Bournemouth,FWD,10.0,5.0,141,29.7,1789,100,a
+62,F. Solanke,Crystal Palace,FWD,9.0,4.5,80,13.2,1380,100,a
+63,R. Diaz,Liverpool,FWD,8.0,3.1,62,23.8,2109,100,a
+64,M. Salah,Liverpool,FWD,12.0,5.2,120,22.8,1721,100,a
